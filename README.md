@@ -1,4 +1,4 @@
-# AI FLASHCARD GENERATOR : Team :W131
+# AI FLASHCARD GENERATOR - Team : W131
 
 Features:
 - Wikimedia Parquet dataset
